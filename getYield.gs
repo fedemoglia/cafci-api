@@ -1,9 +1,9 @@
 /**
 * Obtiene el rendimiento para una clase de un fondo entre 2 fechas
-* @param {fund} número del fondo
-* @param {fundClass} número de la clase
-* @param {startDate} fecha inicial
-* @param {endDate} fecha final
+* @param {fund} fund número del fondo
+* @param {fundClass} fundClass número de la clase
+* @param {startDate} startDate fecha inicial
+* @param {endDate} endDate fecha final
 * @customfunction
 **/
 function getYield(fund, fundClass, startDate, endDate) {
