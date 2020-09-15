@@ -26,4 +26,4 @@ para que pueda hacer request a la api del CAFCI. Por defecto no tiene el permiso
 
 Luego de esto en cualquier celda de la hoja de cálculo con la que relacionaron el proyecto escriben `=getYield` y van a ver la ayuda de como se usa.
 
-![getYieldHelp](https://i.imgur.com/zipR0B5.png)
+![getYieldHelp](https://i.imgur.com/ICpGh1Q.png)
