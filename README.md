@@ -31,4 +31,4 @@ Y si hacen click en *Revisar permisos* van a llegar a una pantalla como esta don
 ![script.external_request](https://i.imgur.com/wKixkdu.png)
 
 Luego de esto en cualquier celda de la hoja de cálculo con la que relacionaron el proyecto escriben `=getYield` y van a ver la ayuda de como se usa. 
-![getYieldHelp](https://imgur.com/zipR0B5)
+![getYieldHelp](https://i.imgur.com/zipR0B5.png)
