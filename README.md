@@ -24,6 +24,6 @@ Hay que crear el script en el archivo donde se quiere utilizar la fórmula con e
  
 para que pueda hacer request a la api del CAFCI. Por defecto no tiene el permiso para consultar APIs.
 
-Luego de esto en cualquier celda de la hoja de cálculo con la que relacionaron el proyecto escriben `=getYield` y van a ver la ayuda de como se usa.
+Luego de esto en cualquier celda de la hoja de cálculo con la que relacionaron el proyecto escriben `=getYield(` y van a ver la ayuda de como se usa.
 
 ![getYieldHelp](https://i.imgur.com/ICpGh1Q.png)
