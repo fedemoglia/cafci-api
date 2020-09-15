@@ -27,3 +27,5 @@ para que pueda hacer request a la api del CAFCI. Por defecto no tiene el permiso
 Luego de esto en cualquier celda de la hoja de cálculo con la que relacionaron el proyecto escriben `=getYield(` y van a ver la ayuda de como se usa.
 
 ![getYieldHelp](https://i.imgur.com/ICpGh1Q.png)
+
+Siguiendo con el fondo de ejemplo si escribimos `=getYield(847;2409;"2020-08-31";TODAY())` vamos a obtener el rendimiento del fondo desde principios de septiembre hasta la fecha actual
