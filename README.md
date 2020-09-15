@@ -22,13 +22,8 @@ Hay que crear el script en el archivo donde se quiere utilizar la fórmula con e
 
 `"oauthScopes": ["https://www.googleapis.com/auth/script.external_request"]`
  
-para que pueda hacer request a la api del CAFCI. Por defecto no tiene el permiso para consultar APIs. De no hacerlo cuando la quieran ejecutar les va a aparecer un popup como este 
+para que pueda hacer request a la api del CAFCI. Por defecto no tiene el permiso para consultar APIs.
 
-![scriptPrivileges](https://i.imgur.com/awmQL3e.png)
+Luego de esto en cualquier celda de la hoja de cálculo con la que relacionaron el proyecto escriben `=getYield` y van a ver la ayuda de como se usa.
 
-Y si hacen click en *Revisar permisos* van a llegar a una pantalla como esta donde tienen que hacer click en _Permitir_
-
-![script.external_request](https://i.imgur.com/wKixkdu.png)
-
-Luego de esto en cualquier celda de la hoja de cálculo con la que relacionaron el proyecto escriben `=getYield` y van a ver la ayuda de como se usa. 
 ![getYieldHelp](https://i.imgur.com/zipR0B5.png)
