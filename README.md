@@ -19,7 +19,7 @@ El acceso directo para entrar a la búsqueda por Administradora es https://www.c
 * Seleccionar el fondo de la lista y hacer click en *Ver*
 ![Selección de fondo](https://i.imgur.com/UUGa4YU.png)
 
-* Tomar de la URL los 2 números que están separados por *;*. De este caso https://www.cafci.org.ar/ficha-fondo.html?q=847;2409 son 847 y 2409. El primero representa el fondo y el segundo la clase. Esto nos permite identificarlo y poder utilizarlo en la función
+* Tomar de la URL los 2 números que están separados por *;*. De este caso https://www.cafci.org.ar/ficha-fondo.html?q=847;2409 son 847 y 2409. El primero representa el fondo y el segundo la clase. Esto nos permite identificarlo y poder utilizarlo para cualquiera de las funciones
 
 ### Agregar la función 
 
